@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <AI>
+        <Model id="GPT 4.1">
+            <author>OpenAi</author>
+            <RealeaseYear>2025</RealeaseYear>
+            <HQ>San Franciscso</HQ>
+              <Networth>$3 Bilion</Networth>
+        </Model>
+   
+    <Model id="Gemini 2.5">
+            <author>Google DeepMind</author>
+            <RealeaseYear>2025</RealeaseYear>
+            <HQ>London</HQ>
+              <Networth>$6 Billion</Networth>
+        </Model>
+       
+        <Model id="Claude 3.5">
+            <author>Anthropic</author>
+            <RealeaseYear>2025</RealeaseYear>
+            <HQ>San Franciscso</HQ>
+            <Networth>$3 Bilion</Networth>
+        </Model>
+    
+    
+    </AI>
