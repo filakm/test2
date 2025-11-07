@@ -4,21 +4,21 @@
             <author>OpenAi</author>
             <RealeaseYear>2025</RealeaseYear>
             <HQ>San Franciscso</HQ>
-              <Networth>$3 Bilion</Networth>
+              <Networth>$3 Miliardy</Networth>
         </Model>
    
     <Model id="Gemini 2.5">
             <author>Google DeepMind</author>
             <RealeaseYear>2025</RealeaseYear>
-            <HQ>London</HQ>
-              <Networth>$6 Billion</Networth>
+            <HQ>Londyn</HQ>
+              <Networth>$6 Miliardy</Networth>
         </Model>
        
         <Model id="Claude 3.5">
             <author>Anthropic</author>
             <RealeaseYear>2025</RealeaseYear>
             <HQ>San Franciscso</HQ>
-            <Networth>$3 Bilion</Networth>
+            <Networth>$3 Miliardy</Networth>
         </Model>
     
     
