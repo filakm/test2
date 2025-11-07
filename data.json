@@ -1,0 +1,20 @@
+[
+    {
+        "model": "GPT 4.1",
+        "author": "OpenAi",
+        "RealeaseYear": 2025,
+        "Private": false
+    },
+    {
+        "model": "Calude 3.5",
+        "author": "Anthropic",
+        "RealeaseYear": 2024,
+        "Private": false
+    },
+    {
+        "model": "Gemini 2.5",
+        "author": "Google DeepMind",
+        "RealeaseYear": 2025,
+        "Private": false
+    }
+]
