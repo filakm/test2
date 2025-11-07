@@ -1,3 +1,37 @@
+h1 {
+    color:black
+}
+
+.zdjecia{
+    margin-right: 1cm;
+    width: 300px;
+    height: 200px;
+    border: 10px solid black;
+}
+
+#tytul-zdjecia{
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+#tytul-form{
+    text-align: center;
+    margin-bottom: 1cm;
+}
+.edit{
+    background-color: aqua;}
+
+button{
+    background-color: orange;
+  margin-right: 1cm;}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+    background-color: gray;
+    text-align: center;
+}
 
 .wysrodkowanytytul{
     text-align: center;
@@ -6,4 +40,45 @@
 .listaatorow{
     border: 1px solid black;
     
+.OPIS{
+    text-align: justify;
+    margin-top: 1cm;
+    margin-bottom: 1ccm;
+}
+.Kolumny {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+
+.Kolumna {
+    width: 30%;
+    min-width: 250px;
+    margin: 10px;
+}
+
+footer ul li:hover {
+background-color: blue;
+}
+
+.headerData {
+    text-align: center;
+    margin: 1cm;
+}
+
+table,
+td,
+th {
+    border-collapse: collapse;
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+    table-layout: fixed;
+    width: 100%
+}
+
+th {
+    color: white;
+    background-color: black;
 }
