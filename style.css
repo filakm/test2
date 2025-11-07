@@ -1,3 +1,27 @@
 h1 {
     color:black
 }
+
+.zdjecia{
+    margin-right: 1cm;
+    width: 300px;
+    height: 200px;
+    border: 10px solid black;
+}
+
+#tytul-zdjecia{
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+#tytul-form{
+    text-align: center;
+    margin-bottom: 1cm;
+}
+.edit{
+    background-color: aqua;}
+
+button{
+    background-color: orange;
+    margin-right: 1cm;
+}
