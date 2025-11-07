@@ -23,5 +23,64 @@ h1 {
 
 button{
     background-color: orange;
-    margin-right: 1cm;
+  margin-right: 1cm;}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+    background-color: gray;
+    text-align: center;
+
+}
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+nav ul a{
+    text-decoration: none;
+}
+.Zielonynapis{
+    color: green;
+    text-align: center;
+}
+.OPIS{
+    text-align: justify;
+    margin-top: 1cm;
+    margin-bottom: 1ccm;
+}
+.Kolumny {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+
+.Kolumna {
+    width: 30%;
+    min-width: 250px;
+    margin: 10px;
+}
+
+footer ul li:hover{
+background-color: blue;
+.headerData {
+    text-align: center;
+    margin: 1cm;
+}
+
+table,
+td,
+th {
+    border-collapse: collapse;
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+    table-layout: fixed;
+    width: 100%
+}
+
+th {
+    color: white;
+    background-color: black;
 }
