@@ -1,3 +1,20 @@
-h1 {
-    color:black
+.headerData {
+    text-align: center;
+    margin: 1cm;
+}
+
+table,
+td,
+th {
+    border-collapse: collapse;
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+    table-layout: fixed;
+    width: 100%
+}
+
+th {
+    color: white;
+    background-color: black;
 }
