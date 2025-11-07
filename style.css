@@ -41,11 +41,13 @@ nav ul a{
 
 footer ul li:hover {
 background-color: blue;
+}
+
 .headerData {
     text-align: center;
     margin: 1cm;
 }
-}
+
 table,
 td,
 th {
