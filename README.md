@@ -1,6 +1,5 @@
 # test2
 
-## Filak Michal, Filak Michal, tasks 
+## Filak Michal, Filak Michal, tasks 2
 ## Jakub Horowski task 1 i 5
-
-https://filakm.github.io/test2/
+## Nortber Czerw, task 3 i 4
