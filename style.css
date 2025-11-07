@@ -31,19 +31,15 @@ body{
 nav {
     background-color: gray;
     text-align: center;
+}
 
-}
-nav ul li {
-    display: inline;
-    margin-left: 20px;
-}
-nav ul a{
-    text-decoration: none;
-}
-.Zielonynapis{
-    color: green;
+.wysrodkowanytytul{
     text-align: center;
+    margin-bottom: 1cm;
 }
+.listaatorow{
+    border: 1px solid black;
+    
 .OPIS{
     text-align: justify;
     margin-top: 1cm;
